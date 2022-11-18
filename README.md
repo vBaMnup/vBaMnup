@@ -6,6 +6,8 @@
 В своих проектах использую:
 Python3, Django, Django Rest Framework, Postgresql, TelegramApi,  Linux, Git, Docker, Nginx, Gunicorn
 
+[Связаться со мной](https://t.me/vBaMnup)
+
 [Сайт](http://andryuxa.pythonanywhere.com/)
 
 # Статистика
