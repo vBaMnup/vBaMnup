@@ -1,10 +1,10 @@
 # Обо мне
 Всем привет 👋️,
 
-Я начинающий Python Developer.
+Я Python Developer.
 
 В своих проектах использую:
-Python3, Django, Django Rest Framework, Postgresql, TelegramApi,  Linux, Git, Docker, Nginx, Gunicorn
+Python3, Django, Django Rest Framework, Postgresql, FastAPI, Celery, Redis, GraphQL, TelegramApi,  Linux, Git, Docker, Nginx, Gunicorn
 
 [Связаться со мной](https://t.me/vBaMnup)
 
