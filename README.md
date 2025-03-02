@@ -30,7 +30,7 @@
 
 ### 🌐 Мой сайт
 
-[![Сайт](https://img.shields.io/badge/Сайт-Visit-blue?style=flat&logo=internet-explorer)](http://andryuxa.pythonanywhere.com/)
+[![Сайт](https://img.shields.io/badge/Сайт-Visit-blue?style=flat&logo=internet-explorer)](https://pyzone.ru/)
 
 ### 📈 Статистика
 
